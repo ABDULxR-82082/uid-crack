@@ -1,6 +1,6 @@
-![logo](https://i.postimg.cc/x9v80djN/20200606-020927.jpg) 
+![logo](https://i.postimg.cc/pXDWHY6D/Screenshot-20200930-062011-Chrome.jpg)
 
-## 👤 Installation 👤
+## 💿 Installation 💿
 ```python
 ➤➤ Command ➤➤
 
@@ -87,4 +87,3 @@
 
 [![Test](https://img.shields.io/badge/tested%20on-Termux,%20Kali%20Linux,%20Ubuntu,%20Parrot%20OS,%20Debian,%20ANDRAX%20Mobile-%23ff69b4.svg?style=plastic)](https://github.com/YounisJohn/SpeedTest/issues)
  
-
