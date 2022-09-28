@@ -40,7 +40,7 @@
 </p>
 
 ## 📸 Screenshot 📸
-![Screenshot](https://postimg.cc/FdbbBc1T) 
+![Screenshot-20220928-115208.png](https://postimg.cc/FdbbBc1T)
 
 
 <a href="https://github.com/YounisJohn/followers">
