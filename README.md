@@ -40,7 +40,7 @@
 </p>
 
 ## 📸 Screenshot 📸
-<img src="https://postimg.cc/FdbbBc1T" width="240" height="240" align="center">
+<img src="https://i.postimg.cc/ZR2f0xmz/Screenshot-20220928-115208.png" width="240" height="240" align="center">
 <center>
 
 
